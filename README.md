@@ -41,3 +41,9 @@ which contains 195 dataset of different flags from different nations with 29 dif
 28. text: 1 if any letters or writing on the flag (e.g., a motto or slogan), 0 otherwise
 29. topleft: colour in the top-left corner (moving right to decide tie-breaks)
 30. botright: Colour in the bottom-left corner (moving left to decide tie-breaks)
+
+<b>Training the Classifier Model:</b>
+python train.py
+
+<b>Test the Classifier Model:</b>
+python test.py
